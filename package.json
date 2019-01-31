@@ -1,0 +1,8 @@
+{
+  "name": "fakeLoader.js",
+  "version": "1.0.0",
+  "main": "fakeloader.js",
+  "repository": "https://github.com/cattanich/fakeLoader.js.git",
+  "author": "",
+  "license": "MIT"
+}
